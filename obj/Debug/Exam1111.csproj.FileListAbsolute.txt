@@ -1,0 +1,12 @@
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\Exam1111.exe.config
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\Exam1111.exe
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\Exam1111.pdb
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\EntityFramework.dll
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\EntityFramework.xml
+E:\c# 3semestr\ado.NET\Exam1111\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# 3semestr\ado.NET\Exam1111\obj\Debug\Exam1111.csprojAssemblyReference.cache
+E:\c# 3semestr\ado.NET\Exam1111\obj\Debug\Exam1111.csproj.CoreCompileInputs.cache
+E:\c# 3semestr\ado.NET\Exam1111\obj\Debug\Exam1111.csproj.CopyComplete
+E:\c# 3semestr\ado.NET\Exam1111\obj\Debug\Exam1111.exe
+E:\c# 3semestr\ado.NET\Exam1111\obj\Debug\Exam1111.pdb
